@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Weather App ios
 //
-//  Created by turbo on 08.03.2021.
+//  Created by Anton Tuzov on 08.03.2021.
 //
 
 import UIKit
